@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmaaz7&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmaaz7" /> </p>
 
-- 🔭 I’m currently working on [QueryVerse: An Application for processing queries in natural language].
-
 - 🌱 I’m currently learning **React.js, Next.js, MongoDB, PostgreSQL, Node.js, Express.js, RESTful APIs & GraphQL**
 
 - 💬 Ask me about **Building dynamic web applications using modern front-end and back-end technologies**
