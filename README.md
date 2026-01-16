@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m **Muhammad Maaz**, a final-year **Software Engineering** student at **FAST NUCES** with a strong interest in building **scalable, high‑performance web applications**.
 
@@ -28,7 +28,7 @@ I’m **Muhammad Maaz**, a final-year **Software Engineering** student at **FAST
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -50,7 +50,7 @@ I’m **Muhammad Maaz**, a final-year **Software Engineering** student at **FAST
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 
 * 🔹 Building **production-ready MERN & Next.js apps**
 * 🔹 Real-time dashboards & data‑driven UIs
@@ -59,7 +59,7 @@ I’m **Muhammad Maaz**, a final-year **Software Engineering** student at **FAST
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadmaaz7&show_icons=true&theme=tokyonight" />
@@ -72,7 +72,7 @@ I’m **Muhammad Maaz**, a final-year **Software Engineering** student at **FAST
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 * 🧑‍💻 Interned on **MERN-based Case Manager system**
 * 🤝 Experience working on **team & client projects**
@@ -80,7 +80,7 @@ I’m **Muhammad Maaz**, a final-year **Software Engineering** student at **FAST
 
 ---
 
-## 🤝 Let’s Collaborate
+## Let’s Collaborate
 
 I’m always open to:
 
